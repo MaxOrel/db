@@ -1,5 +1,5 @@
- [
-  {
+{
+  "home": [{
     "id": 1,
     "variety": "Административное здание",
     "address": "Казань",
@@ -106,5 +106,5 @@
     "stage": false,
     "photo_link": "assets/photos/9.jpg",
     "stringency": 9
-  }
-]
+  }]
+}
